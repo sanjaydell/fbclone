@@ -5,3 +5,8 @@
 .app__body {
   display: flex;
 }
+@media only screen and (max-width: 468px) {
+.app{
+  max-width: 468px;
+}
+}
